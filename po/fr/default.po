@@ -231,7 +231,7 @@ msgid "Unknown channel"
 msgstr "Salon inconnu"
 
 msgid "Upload"
-msgstr "Uploader"
+msgstr "Téléverser"
 
 msgid "Upload File"
 msgstr "Téléverser un fichier"
