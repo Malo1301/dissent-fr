@@ -237,7 +237,7 @@ msgid "Upload File"
 msgstr "Téléverser un fichier"
 
 msgid "Upload Files"
-msgstr "Uploader des fichiers"
+msgstr "Téléverser des fichiers"
 
 msgid "Usage: %s [options] <name>...\n"
 msgstr "Utilisation : %s [options] <name>...\r\n"
