@@ -72,7 +72,7 @@ msgid "Enable a semi-WYSIWYG feature that decorates the input Markdown text."
 msgstr "Activer une fonctionnalité semi-WYSIWYG qui décore la saisie du texte Markdown."
 
 msgid "Enter text here"
-msgstr "Entrer le texte ici"
+msgstr "Entrez le texte ici"
 
 msgid "Entry"
 msgstr "Entrée"
