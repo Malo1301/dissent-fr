@@ -63,7 +63,7 @@ msgid "Editing message"
 msgstr "Modification du message"
 
 msgid "Email"
-msgstr "Email"
+msgstr "Courriel"
 
 msgid "Empty channel"
 msgstr "Salon vide"
